@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://github.com/AdemGmati">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=35&pause=1000&width=435&lines=Adem+Gmati" alt="Typing SVG" /></a>
-  </a>
-</p><br />
-
-<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=35&pause=1000&width=435&lines=Full-Stack+web+and+app+developer;Always+Learning+new+things;3%2B+Years+of+coding+experience" alt="Typing SVG" /></a>
 </p
 
