@@ -1,13 +1,14 @@
 <p align="center">
   <a href="https://github.com/AdemGmati">
-    <img src="./assets/profile_img.png" alt="Hi there" width="200" height="100"/>
+    <img src="./assets/profile_img.png" alt="Hi there" width="200" height="150"/>
   </a>
 </p>
 
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=35&pause=1000&width=435&lines=Full-Stack+web+and+app+developer;Always+Learning+new+things;3%2B+Years+of+coding+experience" alt="Typing SVG" /></a>
-</p>
+</p
+
 ---
 
 ### 💼 Languages and Tools
