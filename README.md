@@ -1,8 +1,13 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+web+and+app+developer;Always+Learning+new+things;3%2B+Years+of+coding+experience" alt="Typing SVG" /></a>
+  <a href="https://github.com/AdemGmati">
+    <img src="./assets/image_1.png" alt="Hi there" width="200"/>
+  </a>
 </p>
 
-**`Full-Stack Developer`**
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=26&pause=1000&width=435&lines=Full-Stack+web+and+app+developer;Always+Learning+new+things;3%2B+Years+of+coding+experience" alt="Typing SVG" /></a>
+</p>
 ---
 
 ### 💼 Languages and Tools
