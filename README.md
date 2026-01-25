@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AdemGmati">
-    <img src="./assets/profile_img.png" alt="Hi there" width="200"/>
+    <img src="./assets/profile_img.png" alt="Hi there" width="200" height="100"/>
   </a>
 </p>
 
