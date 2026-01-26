@@ -1,9 +1,3 @@
-<link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
-
-<h1 align="center" style="font-family: 'Lora', serif; color: #36BCF7FF;">
-  Adem Gmati
-</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=35&pause=1000&width=435&lines=Full-Stack+web+and+app+developer;Always+Learning+new+things;3%2B+Years+of+coding+experience" alt="Typing SVG" /></a>
 </p
