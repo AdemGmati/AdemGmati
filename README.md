@@ -16,6 +16,13 @@
 <br />
 
 #
+| <a href="https://github.com/AdemGmati/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdemGmati&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true" alt="Adem's github stats" /></a> | <a href="https://github.com/AdemGmati/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemGmati&layout=compact&theme=prussian&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
+
+
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
   ![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemGmati&show_icons=true&theme=prussian)
