@@ -20,4 +20,4 @@
   <summary><h2>📊 Stats and Activity</h2></summary>
   ![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemGmati&show_icons=true&theme=prussian)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemGmati&layout=compact&theme=prussian)
-<details /> 
+</details>
