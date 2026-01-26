@@ -13,6 +13,11 @@
 <img align="left" alt="react" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="githup" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<br />
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=holi)
+#
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+  ![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemGmati&show_icons=true&theme=prussian)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemGmati&layout=compact&theme=prussian)
+<details /> 
