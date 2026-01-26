@@ -14,7 +14,7 @@
 <img align="left" alt="githup" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br />
 
-### 📊 Stats and Activity
+---
 
 
 | <a href="https://github.com/AdemGmati/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdemGmati&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true" alt="Adem's github stats" /></a> | <a href="https://github.com/AdemGmati/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemGmati&layout=compact&theme=prussian&hide_border=true" /></a> |
