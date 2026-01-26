@@ -6,7 +6,6 @@
 
 ### 💼 Languages and Tools
 
-
 <img align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" alt="css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
 <img align="left" alt="js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
@@ -16,15 +15,6 @@
 <br />
 
 #
+<h2>📊 Stats and Activity</h2>
 | <a href="https://github.com/AdemGmati/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdemGmati&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true" alt="Adem's github stats" /></a> | <a href="https://github.com/AdemGmati/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemGmati&layout=compact&theme=prussian&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
-
-
-
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-  ![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemGmati&show_icons=true&theme=prussian)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemGmati&layout=compact&theme=prussian)
-</details>
