@@ -14,8 +14,7 @@
 <img align="left" alt="githup" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br />
 
-#
-
+---
 
 
 | ![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemGmati&show_icons=true&theme=prussian) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemGmati&layout=compact&theme=prussian) |
