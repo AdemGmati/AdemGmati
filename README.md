@@ -13,9 +13,3 @@
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="githup" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br />
-
----
-
-
-| <img src="https://gh-readme-stats-proxy.vercel.app/api?username=AdemGmati&show_icons=true&theme=prussian" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemGmati&layout=compact&theme=prussian) |
-| ------------- | ------------- |
