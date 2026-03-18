@@ -4,7 +4,7 @@
 
 
 
-### 💼 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" alt="css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
@@ -18,3 +18,8 @@
 
 | <a href="https://github.com/AdemGmati"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdemGmati&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Adem's GitHub stats" /></a> | <a href="https://github.com/AdemGmati"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemGmati&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+#### Top Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdemGmati&repo=landing-page)](https://github.com/AdemGmati/landing-page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdemGmati&repo=Rest-countries)](https://github.com/AdemGmati/Rest-countries)
