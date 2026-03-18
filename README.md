@@ -2,8 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=30&pause=1000&width=435&lines=3%2B+Years+of+Coding+Experience;Always+Learning+New+Things;Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
-
-
 ### Languages and Tools
 
 <img align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
