@@ -14,4 +14,8 @@
 <img align="left" alt="githup" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia)
+
+### 📊 Status
+
+| <a href="https://github.com/AdemGmati"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdemGmati&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Adem's GitHub stats" /></a> | <a href="https://github.com/AdemGmati"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemGmati&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
