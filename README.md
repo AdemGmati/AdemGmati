@@ -16,8 +16,3 @@
 
 | <a href="https://github.com/AdemGmati"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdemGmati&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Adem's GitHub stats" /></a> | <a href="https://github.com/AdemGmati"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemGmati&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdemGmati&repo=landing-page)](https://github.com/AdemGmati/landing-page)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdemGmati&repo=Rest-countries)](https://github.com/AdemGmati/Rest-countries)
