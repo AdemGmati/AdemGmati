@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Adem <br>- 🔭 I’m working as Freelance<br>- 📚 I'm currently learning New tools<br>- ⚡ In my free time I Build project</p>
+<p align="left">I'm a self-taught passionate FrontEnd developer from Tunisia<br><br>- 🔭 I’m working as Freelance<br>- 📚 I'm currently learning Node.js<br>- ⚡ In my free time I Build New project</p>
 
 ###
 
