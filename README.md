@@ -2,6 +2,22 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=30&pause=1000&width=435&lines=3%2B+Years+of+Coding+Experience;Always+Learning+New+Things;Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
+---
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Adem <br>- 🔭 I’m working as Freelance<br>- 📚 I'm currently learning New tools<br>- ⚡ In my free time I Build project</p>
+
+###
+
+<div><a href="https://www.linkedin.com/in/ademgmati/" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a> <a href="https://x.com/Adem07077" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=X+%2F+Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" /></a></div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
 ###
 
 <div align="center">
@@ -28,13 +44,13 @@
 
 ###
 
-<div align="center"><a href="https://www.linkedin.com/in/اسم-عنوان-URL-صغير" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a> <a href="https://x.com/Adem07077" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=X+%2F+Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" /></a></div>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=AdemGmati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AdemGmati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=AdemGmati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=false) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AdemGmati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark_dimmed&hide_border=false) |
 |---|---|
 
 </div>
