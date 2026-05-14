@@ -41,11 +41,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AdemGmati/AdemGmati/output/snake.svg" alt="Snake animation" />
-
-###
